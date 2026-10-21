@@ -399,7 +399,7 @@ Data visualisation was performed in Python to show the patterns, distributions a
 
 Histograms with density curves show how the values of wasting_pct, ci_low, ci_high and year are spread across ranges.
 
-<p align="center"><img src="images/image1.png" width="540" alt="Distribution of numerical variables"></p>
+<p align="center"><img src="image1.png" width="540" alt="Distribution of numerical variables"></p>
 
 *Figure 1: Distribution of numerical variables*
 
@@ -407,7 +407,7 @@ wasting_pct, ci_low and ci_high are all right-skewed. Most values are low, and a
 
 ### 2. Box Plots of Numerical Variables
 
-<p align="center"><img src="images/image2.png" width="540" alt="Box plots of numerical variables"></p>
+<p align="center"><img src="image2.png" width="540" alt="Box plots of numerical variables"></p>
 
 *Figure 2: Box plots of numerical variables*
 
@@ -415,7 +415,7 @@ The middle 50% of wasting rates lies between about 2.4% and 9.1%, with a median 
 
 ### 3. Count Plots of Categorical Variables
 
-<p align="center"><img src="images/image3.png" width="540" alt="Count plots of sex, urbanity, wealth quintile and mother’s education"></p>
+<p align="center"><img src="image3.png" width="540" alt="Count plots of sex, urbanity, wealth quintile and mother’s education"></p>
 
 *Figure 3: Count plots of sex, urbanity, wealth quintile and mother’s education*
 
@@ -423,7 +423,7 @@ Male and female records, and urban and rural records, are almost equal in number
 
 ### 4. Top 10 Countries by Number of Records
 
-<p align="center"><img src="images/image4.png" width="460" alt="Top 10 countries by number of records"></p>
+<p align="center"><img src="image4.png" width="460" alt="Top 10 countries by number of records"></p>
 
 *Figure 4: Top 10 countries by number of records*
 
@@ -431,7 +431,7 @@ Peru has the most records, followed by Kuwait, Jamaica, Niger and Senegal. The t
 
 ### 5. Records by Child Age Group
 
-<p align="center"><img src="images/image5.png" width="460" alt="Number of records by child age group"></p>
+<p align="center"><img src="image5.png" width="460" alt="Number of records by child age group"></p>
 
 *Figure 5: Number of records by child age group*
 
@@ -439,7 +439,7 @@ The six age groups have almost the same number of records, so comparisons across
 
 ### 6. Scatter Plot: Lower Confidence Bound vs Wasting Rate
 
-<p align="center"><img src="images/image6.png" width="420" alt="Lower confidence bound vs wasting rate"></p>
+<p align="center"><img src="image6.png" width="420" alt="Lower confidence bound vs wasting rate"></p>
 
 *Figure 6: Lower confidence bound vs wasting rate*
 
@@ -447,7 +447,7 @@ The points form a tight upward line (correlation about 0.95), so records with a 
 
 ### 7. Upper Confidence Bound vs Wasting Rate
 
-<p align="center"><img src="images/image7.png" width="420" alt="Upper confidence bound vs wasting rate"></p>
+<p align="center"><img src="image7.png" width="420" alt="Upper confidence bound vs wasting rate"></p>
 
 *Figure 7: Upper confidence bound vs wasting rate*
 
@@ -455,7 +455,7 @@ The relationship is also strongly positive (about 0.88), but the points are more
 
 ### 8. Scatter Plot: Year vs Wasting Rate
 
-<p align="center"><img src="images/image8.png" width="420" alt="Year vs wasting rate"></p>
+<p align="center"><img src="image8.png" width="420" alt="Year vs wasting rate"></p>
 
 *Figure 8: Year vs wasting rate*
 
@@ -463,7 +463,7 @@ The points form a flat cloud with almost no pattern (correlation about −0.07),
 
 ### 9. Wealth Quintile vs Wasting Rate
 
-<p align="center"><img src="images/image9.png" width="420" alt="Wealth quintile vs wasting rate (box plot)"></p>
+<p align="center"><img src="image9.png" width="420" alt="Wealth quintile vs wasting rate (box plot)"></p>
 
 *Figure 9: Wealth quintile vs wasting rate (box plot)*
 
@@ -471,7 +471,7 @@ Wasting falls steadily from about 7.5% in the poorest quintile (WQ1) to about 5.
 
 ### 10. Mother’s Education vs Wasting Rate
 
-<p align="center"><img src="images/image10.png" width="420" alt="Mother’s education vs average wasting rate"></p>
+<p align="center"><img src="image10.png" width="420" alt="Mother’s education vs average wasting rate"></p>
 
 *Figure 10: Mother’s education vs average wasting rate*
 
@@ -479,7 +479,7 @@ Average wasting is about 7.2% when the mother has no or only primary education, 
 
 ### 11. Urban vs Rural Wasting Rate
 
-<p align="center"><img src="images/image11.png" width="330" alt="Urban vs rural wasting rate"></p>
+<p align="center"><img src="image11.png" width="330" alt="Urban vs rural wasting rate"></p>
 
 *Figure 11: Urban vs rural wasting rate*
 
@@ -487,7 +487,7 @@ Rural children (6.8%) have a slightly higher average wasting rate than urban chi
 
 ### 12. Child Age Group vs Wasting Rate
 
-<p align="center"><img src="images/image12.png" width="439" alt="Child age group vs average wasting rate"></p>
+<p align="center"><img src="image12.png" width="439" alt="Child age group vs average wasting rate"></p>
 
 *Figure 12: Child age group vs average wasting rate*
 
@@ -495,7 +495,7 @@ Wasting is highest in the first year of life (about 9.2% to 9.3% at 0 to 11 mont
 
 ### 13. Wealth Quintile vs Wasting Level
 
-<p align="center"><img src="images/image13.png" width="420" alt="Wealth quintile vs wasting level"></p>
+<p align="center"><img src="image13.png" width="420" alt="Wealth quintile vs wasting level"></p>
 
 *Figure 13: Wealth quintile vs wasting level*
 
@@ -503,7 +503,7 @@ The share of High wasting is largest in the poorest quintiles and smallest in th
 
 ### 14. Mother’s Education vs Wasting Level
 
-<p align="center"><img src="images/image14.png" width="420" alt="Mother’s education vs wasting level"></p>
+<p align="center"><img src="image14.png" width="420" alt="Mother’s education vs wasting level"></p>
 
 *Figure 14: Mother’s education vs wasting level*
 
@@ -511,7 +511,7 @@ High wasting is most common when the mother has no or only primary education (42
 
 ### 15. Urban vs Rural and Wasting Level
 
-<p align="center"><img src="images/image15.png" width="340" alt="Urban vs rural wasting level"></p>
+<p align="center"><img src="image15.png" width="340" alt="Urban vs rural wasting level"></p>
 
 *Figure 15: Urban vs rural wasting level*
 
@@ -519,7 +519,7 @@ Rural areas have a somewhat larger share of High wasting than urban areas (36.4%
 
 ### 16. Correlation Heatmap
 
-<p align="center"><img src="images/image16.png" width="415" alt="Correlation heatmap of numerical variables"></p>
+<p align="center"><img src="image16.png" width="415" alt="Correlation heatmap of numerical variables"></p>
 
 *Figure 16: Correlation heatmap of numerical variables*
 
@@ -527,7 +527,7 @@ The heatmap shows the strongest positive correlation between wasting_pct and ci_
 
 ### 17. Wasting Rate by Child Age Group and Sex
 
-<p align="center"><img src="images/image17.png" width="460" alt="Wasting rate by child age group and sex"></p>
+<p align="center"><img src="image17.png" width="460" alt="Wasting rate by child age group and sex"></p>
 
 *Figure 17: Wasting rate by child age group and sex*
 
@@ -535,7 +535,7 @@ Boys have a higher wasting rate than girls in every age group. The gap is larges
 
 ### 18. Wasting Rate by Wealth Quintile and Time Period
 
-<p align="center"><img src="images/image18.png" width="460" alt="Wasting rate by wealth quintile and time period"></p>
+<p align="center"><img src="image18.png" width="460" alt="Wasting rate by wealth quintile and time period"></p>
 
 *Figure 18: Wasting rate by wealth quintile and time period*
 
@@ -543,7 +543,7 @@ The poorest quintile has the highest wasting in every period and the richest the
 
 ### 19. Urban and Rural Wasting by Time Period
 
-<p align="center"><img src="images/image19.png" width="439" alt="Wasting rate in urban and rural areas by time period"></p>
+<p align="center"><img src="image19.png" width="439" alt="Wasting rate in urban and rural areas by time period"></p>
 
 *Figure 19: Wasting rate in urban and rural areas by time period*
 
@@ -551,7 +551,7 @@ Rural areas have a higher wasting rate than urban areas in all four periods, by 
 
 ### 20. Pair Plot
 
-<p align="center"><img src="images/image20.png" width="400" alt="Pair plot of numerical variables"></p>
+<p align="center"><img src="image20.png" width="400" alt="Pair plot of numerical variables"></p>
 
 *Figure 20: Pair plot of numerical variables*
 
@@ -559,7 +559,7 @@ The diagonal histograms show right-skewed distributions for wasting_pct, ci_low 
 
 ### 21. Percentage of Countries by Wasting Level
 
-<p align="center"><img src="images/image21.png" width="439" alt="Percentage of countries by wasting level (latest survey)"></p>
+<p align="center"><img src="image21.png" width="439" alt="Percentage of countries by wasting level (latest survey)"></p>
 
 *Figure 21: Percentage of countries by wasting level (latest survey)*
 
@@ -569,7 +569,7 @@ Based on each country’s latest survey, 33.5% of countries have very low wastin
 
 #### 22. Pie Chart: Countries by Wasting Level
 
-<p align="center"><img src="images/image22.png" width="439" alt="Countries by wasting level, latest survey (pie chart)"></p>
+<p align="center"><img src="image22.png" width="439" alt="Countries by wasting level, latest survey (pie chart)"></p>
 
 *Figure 22: Countries by wasting level, latest survey (pie chart)*
 
@@ -577,7 +577,7 @@ About 33.5% of countries (55) have very low wasting and 29.9% (49) have low wast
 
 #### 23. Pie Chart: Share of Records by Sex
 
-<p align="center"><img src="images/image23.png" width="360" alt="Share of records by sex (pie chart)"></p>
+<p align="center"><img src="image23.png" width="360" alt="Share of records by sex (pie chart)"></p>
 
 *Figure 23: Share of records by sex (pie chart)*
 
